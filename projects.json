@@ -1,0 +1,259 @@
+{
+  "homeOrder": [
+    "hero",
+    "brands",
+    "about",
+    "expertise",
+    "tools",
+    "cta"
+  ],
+  "profile": {
+    "firstName": "Roberto",
+    "lastName": "Sánchez",
+    "role": "Diseñador gráfico multidisciplinario",
+    "tagline": "",
+    "intro": "Creo soluciones audiovisuales para redes sociales apoyándome en el diseño gráfico, edición de video y motion graphics.",
+    "email": "rsanchezv18@gmail.com",
+    "behance": "https://www.behance.net/robertoi",
+    "logo": "assets/logo.svg",
+    "instagram": "",
+    "heroImage": "assets/roberto.png",
+    "footerTitle": "¿Tienes un proyecto?",
+    "footerAccent": "Hablemos.",
+    "badge": "Open to work"
+  },
+  "brandsTitle": "He realizado trabajos para las redes sociales de:",
+  "brands": [
+    {
+      "name": "HSBC",
+      "logo": "assets/brands/hsbc-ar21.svg"
+    },
+    {
+      "name": "Shark Tank México",
+      "logo": "assets/brands/stm.svg"
+    },
+    {
+      "name": "PrimeVideo",
+      "logo": "assets/brands/prime.svg"
+    },
+    {
+      "name": "Bokados",
+      "logo": "assets/brands/bokados.svg"
+    },
+    {
+      "name": "Levité",
+      "logo": "assets/brands/levite.svg"
+    },
+    {
+      "name": "MiMóvil",
+      "logo": "assets/brands/mimovil.svg"
+    },
+    {
+      "name": "Sony Channel",
+      "logo": "assets/brands/levite.svg"
+    },
+    {
+      "name": "AXN",
+      "logo": "assets/brands/axn.svg"
+    },
+    {
+      "name": "Tecnolite",
+      "logo": "assets/brands/levite.svg"
+    },
+    {
+      "name": "Michael Page",
+      "logo": "assets/brands/levite.svg"
+    },
+    {
+      "name": "Honor",
+      "logo": "assets/brands/honor.svg"
+    },
+     {
+      "name": "Sony Channel",
+      "logo": "assets/brands/honor.svg"
+    }
+  ],
+  "about": {
+    "headline": [
+      "Diseñador",
+      "Editor",
+      "Motion"
+    ],
+    "text": [
+      "Tengo ocho años de experiencia en agencia digital creando contenido audiovisual para marcas de entretenimiento, telefonía y banca.",
+      "Trabajo de forma autogestiva y con dirección de arte: retoque y manipulación digital, vectores, animación en After Effects, edición de video con audio y sonorización, y filtros de realidad aumentada."
+    ],
+    "stats": [
+      {
+        "value": "8+",
+        "label": "años en agencia digital"
+      },
+      {
+        "value": "3",
+        "label": "industrias: entretenimiento, telefonía y banca"
+      },
+      {
+        "value": "5",
+        "label": "herramientas Adobe de uso diario"
+      }
+    ]
+  },
+  "expertise": [
+    {
+      "icon": "video",
+      "title": "Edición de video",
+      "text": "Montaje, ritmo, audio y sonorización para redes y campañas."
+    },
+    {
+      "icon": "motion",
+      "title": "Motion graphics",
+      "text": "Animación en After Effects para dar vida a tu marca."
+    },
+    {
+      "icon": "design",
+      "title": "Diseño gráfico",
+      "text": "Dirección de arte y vectores con identidad clara."
+    },
+    {
+      "icon": "retouch",
+      "title": "Retoque digital",
+      "text": "Manipulación y retoque de imagen en Photoshop."
+    }
+  ],
+  "experience": [
+    {
+      "year": "2010 – 2014",
+      "role": "Lic. en Diseño Gráfico",
+      "place": "E.A.P. “Profr. Rubén Herrera” UAdeC"
+    },
+    {
+      "year": "2015",
+      "role": "Adobe Certified Associate",
+      "place": "Visual Communication using Photoshop"
+    },
+      {
+      "year": "2015",
+      "role": "Digital Invader",
+      "place": "Generación X8"
+    },
+    {
+      "year": "2017 – 2026",
+      "role": "Diseñador gráfico",
+      "place": "Grupo W"
+    },
+    {
+      "year": "2026 -",
+      "role": "Diseñador gráfico",
+      "place": "Freelance"
+    }
+  ],
+  "sections": [
+    {
+      "id": "edicion",
+      "label": "Edición",
+      "status": "ready",
+      "description": "Videos editados para redes sociales y campañas. Toca uno para reproducirlo."
+    },
+    {
+      "id": "motion",
+      "label": "Motion",
+      "status": "soon"
+    },
+    {
+      "id": "diseno",
+      "label": "Diseño",
+      "status": "soon"
+    }
+  ],
+  "projects": [
+    {
+      "section": "edicion",
+      "title": "Proyecto de ejemplo 2 (vertical)",
+      "description": "Reel o historia en formato vertical 9:16.",
+      "year": "2026",
+      "url": "https://www.dropbox.com/scl/fi/PEGA_AQUI_TU_LINK/video2.mp4?rlkey=XXXX&dl=0",
+      "thumb": "",
+      "vertical": true
+    },
+    {
+      "section": "edicion",
+      "title": "Proyecto de ejemplo 2 (vertical)",
+      "description": "Reel o historia en formato vertical 9:16.",
+      "year": "2026",
+      "url": "https://www.dropbox.com/scl/fi/PEGA_AQUI_TU_LINK/video2.mp4?rlkey=XXXX&dl=0",
+      "thumb": "",
+      "vertical": true
+    },
+    {
+      "section": "edicion",
+      "title": "Proyecto de ejemplo 2 (vertical)",
+      "description": "Reel o historia en formato vertical 9:16.",
+      "year": "2026",
+      "url": "https://www.dropbox.com/scl/fi/PEGA_AQUI_TU_LINK/video2.mp4?rlkey=XXXX&dl=0",
+      "thumb": "",
+      "vertical": true
+    },
+    {
+      "section": "edicion",
+      "title": "Proyecto de ejemplo 2 (vertical)",
+      "description": "Reel o historia en formato vertical 9:16.",
+      "year": "2026",
+      "url": "https://www.dropbox.com/scl/fi/PEGA_AQUI_TU_LINK/video2.mp4?rlkey=XXXX&dl=0",
+      "thumb": "",
+      "vertical": true
+    },
+    {
+      "section": "edicion",
+      "title": "Proyecto de ejemplo 2 (vertical)",
+      "description": "Reel o historia en formato vertical 9:16.",
+      "year": "2026",
+      "url": "https://www.dropbox.com/scl/fi/PEGA_AQUI_TU_LINK/video2.mp4?rlkey=XXXX&dl=0",
+      "thumb": "",
+      "vertical": true
+    },
+    {
+      "section": "edicion",
+      "title": "Proyecto de ejemplo 2 (vertical)",
+      "description": "Reel o historia en formato vertical 9:16.",
+      "year": "2026",
+      "url": "https://www.dropbox.com/scl/fi/PEGA_AQUI_TU_LINK/video2.mp4?rlkey=XXXX&dl=0",
+      "thumb": "",
+      "vertical": true
+    }
+  ],
+  "expertiseTitle": "Diseño. Edición.  Motion",
+  "cta": {
+    "title": "¿Necesitas editar tu próximo video?",
+    "button": "Contáctame"
+  },
+  "tools": {
+    "title": "Herramientas",
+    "items": [
+      {
+        "name": "Photoshop",
+        "short": "Ps",
+        "icon": "assets/icons/photoshop.svg"
+      },
+      {
+        "name": "Premiere Pro",
+        "short": "Pr",
+        "icon": "assets/icons/premiere.svg"
+      },
+      {
+        "name": "After Effects",
+        "short": "Ae",
+        "icon": "assets/icons/ae.svg"
+      },
+      {
+        "name": "Illustrator",
+        "short": "Ai",
+        "icon": "assets/icons/illustrator.svg"
+      },
+      {
+        "name": "Audition",
+        "short": "Au",
+        "icon": "assets/icons/audition.svg"
+      }
+    ]
+  }
+}

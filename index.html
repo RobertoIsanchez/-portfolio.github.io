@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Roberto Sánchez | Edición de video, motion y diseño</title>
+<meta name="description" content="Diseñador gráfico multidisciplinario: edición de video, motion graphics y diseño para redes sociales.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="hdr">
+  <div class="hdr-in">
+    <a class="logo" href="#inicio" aria-label="Inicio"></a>
+    <nav class="tabs" id="tabs" aria-label="Áreas"></nav>
+    <button class="burger" id="burger" aria-label="Abrir menú" aria-expanded="false" aria-controls="drawer"><i></i><i></i><i></i></button>
+  </div>
+</header>
+
+<div class="drawer" id="drawer">
+  <nav id="drawer-nav" aria-label="Enlaces"></nav>
+</div>
+
+<main id="main"><p class="empty">Cargando…</p></main>
+
+<footer id="contacto">
+  <div class="in">
+    <div class="ft">
+      <h2 id="f-title"></h2>
+      <ul id="f-links"></ul>
+    </div>
+    <p class="copy" id="copy"></p>
+  </div>
+</footer>
+
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-label="Reproductor">
+  <button class="close" id="close" aria-label="Cerrar">×</button>
+  <div class="stage" id="stage"></div>
+  <div class="cap"><h3 id="m-title"></h3><p id="m-desc"></p></div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
