@@ -166,7 +166,25 @@
     }
   ],
   "projects": [
+       {
+      "section": "edicion",
+      "title": "Proyecto de ejemplo 2 (vertical)",
+      "description": "Reel o historia en formato vertical 9:16.",
+      "year": "2026",
+      "url": "https://www.dropbox.com/scl/fi/bu4vs6umphzm1329j15po/EC_Pablo.mp4?rlkey=kdt08k206m1jvcea9lmf5pii9&st=1cgjv3l7&dl=0",
+      "thumb": "",
+      "vertical": true
+    },
     {
+      "section": "edicion",
+      "title": "Proyecto de ejemplo 2 (vertical)",
+      "description": "Reel o historia en formato vertical 9:16.",
+      "year": "2026",
+      "url": "https://www.dropbox.com/scl/fi/afqpwa653peljddvt9v31/EC_Preguntas.mp4?rlkey=lkth2vkc7mw8d5x12wuoj5pva&st=khluqwkz&dl=0",
+      "thumb": "",
+      "vertical": true
+    },
+     {
       "section": "edicion",
       "title": "Proyecto de ejemplo 2 (vertical)",
       "description": "Reel o historia en formato vertical 9:16.",
@@ -180,7 +198,7 @@
       "title": "Proyecto de ejemplo 2 (vertical)",
       "description": "Reel o historia en formato vertical 9:16.",
       "year": "2026",
-      "url": "https://www.dropbox.com/scl/fi/PEGA_AQUI_TU_LINK/video2.mp4?rlkey=XXXX&dl=0",
+      "url": "https://www.dropbox.com/scl/fi/dp7z8xp3c6pwi5k8tqf9s/STM_Halloween.mp4?rlkey=glrivzk82eke8g2hgvd4glp9a&st=r207hp4q&dl=0",
       "thumb": "",
       "vertical": true
     },
@@ -189,37 +207,35 @@
       "title": "Proyecto de ejemplo 2 (vertical)",
       "description": "Reel o historia en formato vertical 9:16.",
       "year": "2026",
-      "url": "https://www.dropbox.com/scl/fi/PEGA_AQUI_TU_LINK/video2.mp4?rlkey=XXXX&dl=0",
+      "url": "https://www.dropbox.com/scl/fi/v5b2w9rdkimenmu85073t/STM_Convocatoria.mp4?rlkey=zrudihm1gq3v102mzlua3unv5&st=t9t3z40j&dl=0",
       "thumb": "",
-      "vertical": true
     },
     {
       "section": "edicion",
       "title": "Proyecto de ejemplo 2 (vertical)",
       "description": "Reel o historia en formato vertical 9:16.",
       "year": "2026",
-      "url": "https://www.dropbox.com/scl/fi/PEGA_AQUI_TU_LINK/video2.mp4?rlkey=XXXX&dl=0",
+      "url": "https://www.dropbox.com/scl/fi/xm0uic27rebxjv0yp2unz/STM_WarmUp.mp4?rlkey=lh0wazrqfd3ofe5k6ai4r4g5i&st=a1m21xdk&dl=0",
       "thumb": "",
-      "vertical": true
     },
-    {
+     {
       "section": "edicion",
       "title": "Proyecto de ejemplo 2 (vertical)",
       "description": "Reel o historia en formato vertical 9:16.",
       "year": "2026",
-      "url": "https://www.dropbox.com/scl/fi/PEGA_AQUI_TU_LINK/video2.mp4?rlkey=XXXX&dl=0",
+      "url": "https://www.dropbox.com/scl/fi/4o10evwb427ksthnveafg/CCH_Halloween.mp4?rlkey=qbx4qn73i3cjfba1yr18fxbuv&st=5oxr146c&dl=0",
       "thumb": "",
       "vertical": true
     },
-    {
+      {
       "section": "edicion",
       "title": "Proyecto de ejemplo 2 (vertical)",
       "description": "Reel o historia en formato vertical 9:16.",
       "year": "2026",
-      "url": "https://www.dropbox.com/scl/fi/PEGA_AQUI_TU_LINK/video2.mp4?rlkey=XXXX&dl=0",
+      "url": "https://www.dropbox.com/scl/fi/phdbo6gwivdsrt8tq21j4/CCH_Dicciobarrio.mp4?rlkey=b8nxdkc13hsoyebasmhl3wb9o&st=nxwhrvdv&dl=0",
       "thumb": "",
       "vertical": true
-    }
+    },
   ],
   "expertiseTitle": "Diseño. Edición.  Motion",
   "cta": {
